@@ -7,4 +7,4 @@ To make this work you need to ...
 * test it with `stack test`
 * use it with `stack exec encrypt "abc" 1`
 * build the documentation with `stack build --haddock --haddock-arguments --odir=${PWD}/doc`
-* read the [documentation](./doc/doc/html/caesar/Caesar.html)
+* read the [documentation](https://raw.githubusercontent.com/rolandtritsch/haskell-caesar/master/doc/doc/html/caesar/Caesar.html)
